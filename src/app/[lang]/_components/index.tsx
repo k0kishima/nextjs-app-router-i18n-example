@@ -7,5 +7,5 @@ export default function ClientComponent() {
   const { language } = useLanguage();
   const { t } = useTranslation(language);
 
-  return <p>CC: {t('app_name')}</p>;
+  return <p>{t('home:message')}</p>;
 }
