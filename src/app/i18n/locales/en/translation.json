@@ -1,3 +1,7 @@
 {
-  "app_name": "Next.js App Router i18n demo"
+  "app_name": "Next.js App Router i18n demo",
+  "implementing": "implementing...",
+  "home": "Home",
+  "projects": "Projects",
+  "switch_lang": "Switch to Japanese"
 }
